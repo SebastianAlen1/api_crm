@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Karen",
+      "empresa": "Karen diseño",
+      "email": "correo@correo.com",
+      "telefono": "2345678901",
+      "notas": "Cotización toner",
+      "id": 4
+    },
+    {
+      "nombre": "Paulina",
+      "empresa": "Paulina srl",
+      "email": "correo@correo.com",
+      "telefono": "1234567890",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "Edgar Actualizado",
+      "empresa": "Codigo con Juan",
+      "email": "correo@correo.com",
+      "telefono": "1234567890",
+      "notas": "El cliente solicita un servidor",
+      "id": 6
+    }
+  ]
+}
